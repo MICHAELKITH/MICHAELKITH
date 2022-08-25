@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MICHAELKITH
-- 👀 I’m interested in junior web development remote job
-- 🌱 I’m currently learning react j.s
-- 💞️ I’m looking to collaborate with big minds 
+- s 
 - 📫
 
 <!---
