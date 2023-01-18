@@ -2,6 +2,7 @@
 - 📫
 
 <!---
-MICHAELKITH/MICHAELKITH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hello, I'm Michael kithinji
+ Twitter Badge LinkedIn Badge I’m Michael, a Software Engineer, with a love for Web and Mobile Development.
+Want to know more about me? Check out my portfolio.
+Reach me by email: mikecode945@gmail.com
