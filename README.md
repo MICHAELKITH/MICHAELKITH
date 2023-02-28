@@ -4,20 +4,7 @@ I am a software engineer with expertise in the following languages: JavaScript, 
 
 
 
-📚 My Title: Full-Stack developer 🧰<br>
-📚My Location: West Africa 🌍<br>
-🤝 I’m available for freelancing.💸💰<br>
-✨ Creating bugs since 2019🙄<br>
-📚 I'm currently honing my skills 🍧<br>
-🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>
-🎲 Fun fact: I'm funny 🤣
-
 🔗 Projects
-
-Here are some of the projects I've worked on that are not hosted on GitHub:
-
-Project 1 Name - ![alt text](images/Screenshot%202023-02-09%20at%2021.00.32.png)
-
 ###
 
 
