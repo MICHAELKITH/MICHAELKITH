@@ -22,13 +22,13 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya Nairobi.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently enrolled at Microverse and learning to be a professional full stack developer.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and explore new places.
+- :zap: In my free time, I solve problems on GeeksforGeeks/HackerRank/Leetcode and play games.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/michael-kithinji-5a09ab167)
 - :Projects:[Live Demo Link](https://michaelkith.github.io/To-do/) 
