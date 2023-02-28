@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=MICHAELKITH&style=flat-square&color=blue" alt=""/>
   <h1>
- [Hello this is Michael!]
+ Hello, I'm Michael 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -22,8 +22,8 @@
 </div>
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya Nairobi.
+### :man_technologist: About Me:
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya Nairobi who has worked with JavaScript, Node.js, React, and Redux. I'm interested in Full Stack Developer and like hiking and reading about the newest technological developments in my leisure time.
 - :telescope: I’m currently enrolled at Microverse and learning to be a professional full stack developer.
 
 - :seedling: Exploring Technical Content Writing.
