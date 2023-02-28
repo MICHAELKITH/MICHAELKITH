@@ -57,7 +57,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MICHAELKITH&theme=radical)](https://git.io/streak-stats)
 
+# Github Stats
+![MICHAEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MICHAELKITH&show_icons=true&theme=radical)
+# Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELKITH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 📬 <h3> Contact </h3>
 You can reach me at your mikecode945@gmail.com or connect with me on LinkedIn:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/michael-kithinji-5a09ab167)
 <div align="left">
