@@ -27,6 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m currently enrolled at Microverse and learning to be a professional full stack developer.
 
 - :seedling: Exploring Technical Content Writing.
+- ⏲️ Currently available for hire or open to new job opportunities..
 
 - :zap: In my free time, I solve problems on GeeksforGeeks/HackerRank/Leetcode and play games.
 
