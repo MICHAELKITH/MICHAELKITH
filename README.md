@@ -4,8 +4,8 @@
 
 <h1 align="center"> 
   <a href="https://github.com/AmineDerbal">
-    Hi There, I am Mohammed El Amine Derbal! <br>
-    Full Stack Developer
+    Hi There, Michael Kithinji ! <br>
+    Senior Developer 
 </a>
 </h1>
 
