@@ -1,46 +1,58 @@
-<div id="header" align="center"> 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" width="300"/>
+### Hello, I'm [Michael Kithinji] 👋
+
+I am a software engineer with expertise in the following languages: JavaScript, Node.js, React, Redux, Ruby on Rails, ReatNative, and Solidity.js. I have a keen interest in iOS and Mobile App Web Development, and in my spare time I like to travel and keep up with the most recent developments in the world of technology. 👋
+
+
+
+📚 My Title: Full-Stack developer 🧰<br>
+📚My Location: West Africa 🌍<br>
+🤝 I’m available for freelancing.💸💰<br>
+✨ Creating bugs since 2019🙄<br>
+📚 I'm currently honing my skills 🍧<br>
+🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>
+🎲 Fun fact: I'm funny 🤣
+
+🔗 Projects
+
+Here are some of the projects I've worked on that are not hosted on GitHub:
+
+Project 1 Name - ![alt text](images/Screenshot%202023-02-09%20at%2021.00.32.png)
+
+###
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
 </div>
 
-<h1 align="center"> 
-  <a href="https://github.com/AmineDerbal">
-    Hi There, Michael Kithinji ! <br>
-    Senior Developer 
-</a>
-</h1>
 
-# A little bit about me
+<h5 align="left"> I keep trying to find a picture of a beach to use as my <br> background, but all I ever see is 'beach.js'. I'm a master  of creating websites that <br> look great on any screen... except mine, and if you think my screen <br> is full of code now, you should have seen it before I cleaned it up! 😋</h5>
 
-- 🔭 I’m currently a full-time student at Microverse an Online Trainning School.
-- 👯 I’m always looking to collaborate on new projects.
-- 📫 You can reach me at mikecode945@gmail.com
-- ⚡ I like 💻: Programming | 🎮 Video Games | 📖 Fan fictions
-<hr>
+###
 
-### Languages and Tools
-
-<p> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
-   <a href="https://nodejs.org/en/" target="_blank">  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
-   <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
-</p>
+<div align="left">
+  <img height="300" src="https://s21870.pcdn.co/wp-content/uploads/2016/06/giphy-21.gif"  />
+</div>
 
 
+📬 <h3> Contact </h3>
+You can reach me at your emmagmanc@gmail.com or connect with me on LinkedIn on linkedin.com/in/michael-kithinji-5a09ab167
 
-# Show your support! ⭐
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
 
-If you Like any of my projects, please give it a ⭐ Thank you.
+🔎 Seeking Opportunities
+I'm currently on the lookout for new opportunities, so feel free to contact me if you think I'd be a good fit for your team!
