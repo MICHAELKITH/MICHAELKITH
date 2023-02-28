@@ -77,3 +77,8 @@ You can reach me at your mikecode945@gmail.com or connect with me on LinkedIn:Ho
 
 🔎 Seeking Opportunities
 I'm currently on the lookout for new opportunities, so feel free to contact me if you think I'd be a good fit for your team!
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
