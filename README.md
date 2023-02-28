@@ -31,8 +31,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks/HackerRank/Leetcode and play games.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/michael-kithinji-5a09ab167)
-- :Project:[Live Demo Link](https://michaelkith.github.io/To-do/) 
-- :Portfolio:[Live Demo Link](https://MICHAELKITH.github.io/portifolio1) 
+- 🥇:Project:[Live Demo Link](https://michaelkith.github.io/To-do/) 
+- 🥈Portfolio:[Live Demo Link](https://MICHAELKITH.github.io/portifolio1) 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
