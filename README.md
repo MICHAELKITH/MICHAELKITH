@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <h3> 📬 Contact </h3>
-You can reach me at your mikecode945@gmail.com or connect with me on LinkedIn:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/michael-kithinji-5a09ab167)
+You can reach me at your mikecode945@gmail.com or connect with me on LinkedIn:How to reach me:
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="40" alt="twitter logo"  />
