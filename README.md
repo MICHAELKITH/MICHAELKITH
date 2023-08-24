@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/michael-kithinji-5a09ab167)
 - 🥇:Project-To-do-List:[Live Demo Link](https://michaelkith.github.io/To-do/) 
-- 🥈Portfolio:[Live Demo Link](https://MICHAELKITH.github.io/portifolio1) 
+- 🥈Portfolio:[Live Demo Link](https://michaelportfolio1.netlify.app/) 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
