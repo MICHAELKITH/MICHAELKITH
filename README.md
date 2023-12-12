@@ -22,7 +22,7 @@
 </div>
 ---
 
-### :man_technologist: About Me:
+###  About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya Nairobi who has worked with React and Ruby On Rails . I'm interested in Full Stack Developer and I like hiking, charity walk and reading about the newest technological developments in my leisure time.
 - :telescope: I’m currently enrolled at Microverse and learning to be a professional full stack developer.
 
