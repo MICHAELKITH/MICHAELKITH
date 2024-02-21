@@ -23,7 +23,7 @@
 ---
 
 ###  About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya Nairobi who has worked with React.js, Node.js, Next.js, postgreSQL and Ruby On Rails . I'm interested in Full Stack Developer and I like hiking, charity walk and reading about the newest technological developments in my leisure time.
+Experienced software engineer with 4+ years in diverse environments: startups, enterprises, and agencies. Proficient in remote and in-office settings, prioritizing project ownership and speedy delivery. Skilled in web, mobile, and API development.
 - :telescope: I completed my studies at Microverse and graduated as a professional full stack developer in 2023.
 
 - ⏲️ Currently available for hire or open to new job opportunities.
