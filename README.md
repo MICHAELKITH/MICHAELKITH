@@ -33,7 +33,7 @@ Experienced software engineer with 4+ years in diverse environments: startups, e
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michaelkithinji/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- 🥇:Budget APP:[Live Demo Link](https://mike-bpc1.onrender.com/users/sign_up) 
+
 - 🥈Portfolio:[Live Demo Link](https://michaelportfolio1.netlify.app/) 
 ---
 
