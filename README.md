@@ -15,7 +15,6 @@
   <h1>
  Hello, I'm Michael 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fLWwj7scYhc?si=1f4uMpbbZRwlvg4a&amp;start=677" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </h1>
 </div>
 <div align="center">
