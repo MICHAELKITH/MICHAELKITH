@@ -23,7 +23,7 @@
 ---
 
 ###  About Me:
-Experienced software engineer with 4+ years in diverse environments: startups, enterprises, and agencies. Proficient in remote and in-office settings, prioritizing project ownership and speedy delivery. Skilled in web, mobile, and API development.
+Experienced software engineer with 4+ years in diverse environments: startups, enterprises, and agencies. Proficient in remote and in-office settings, prioritizing project ownership and speedy delivery. Skilled in Web, Mobile, and API development.
 - :telescope: I completed my studies at Microverse and graduated as a professional full stack developer in 2023.
 
 - ⏲️ Currently available for hire or open to new job opportunities.
