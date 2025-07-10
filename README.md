@@ -34,7 +34,7 @@ Experienced software engineer with 4+ years in diverse environments: startups, e
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-- 🥈Portfolio:[Live Demo Link](https://michaelportfolio1.netlify.app/) 
+- 🥈Portfolio:[Live Demo Link](https://techinnovatormichael.top/) 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
