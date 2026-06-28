@@ -22,20 +22,31 @@
 </div>
 ---
 
-###  About Me:
-Experienced software engineer with 4+ years in diverse environments: startups, enterprises, and agencies. Proficient in remote and in-office settings, prioritizing project ownership and speedy delivery. Skilled in Web, Mobile, and API development.
-- :telescope: I completed my studies at Microverse and graduated as a professional full stack developer in 2023.
+### About Me:
+Lead Full-Stack Developer and Security Researcher with 4+ years of experience spanning startups, enterprises, and offensive security research. Proficient in remote and distributed environments, prioritizing robust project ownership, rapid feature delivery, and secure-by-design code. 
 
-- ⏲️ Currently available for hire or open to new job opportunities.
+Specializing in **Go (Fiber)**, **JavaScript/React/Next.js**, **Flutter**, and **Application Security (AppSec)**.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks/HackerRank/Leetcode and play games.
+- 🚀 **Lead Full-Stack Engineer** & active **Bug Bounty Hunter**.
+- 🎓 Graduated as a professional Full-Stack Developer from Microverse in 2023.
+- ⚡ In my free time, I research web application vulnerabilities, bypass WAFs, and build open-source tools.
+- 💼 Currently open to new lead developer roles, security contracts, or collaborative projects.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/michaelkithinji/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-- 🥈Portfolio:[Live Demo Link](https://kithinjimike.kazini.africa/) 
 ---
+
+### 🛠️ Tech Stack & Tooling:
+* **Backend & APIs:** Go (Fiber), Node.js, PostgreSQL
+* **Frontend & Mobile:** React, Next.js, Flutter, Tailwind CSS
+* **Security & Testing:** Burp Suite, Nuclei, Penetration Testing, AppSec
+
+---
+
+### 📬 Connect with Me:
+<a href="https://www.linkedin.com/in/michaelkithinji/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+🌐 **Portfolio:** [Live Demo Link](https://kithinjimike.kazini.africa/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
